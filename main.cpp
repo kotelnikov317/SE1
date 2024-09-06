@@ -1,7 +1,7 @@
 #include <iostream>
 
 using namespace std;
-
+//программа является учебной
 int main()
 {
     system("chcp 1251");
