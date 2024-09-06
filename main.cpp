@@ -1,7 +1,9 @@
+//
+//Author: Kotelnikov Anatoliy, KE-317, 06.09.24
 #include <iostream>
 
 using namespace std;
-//программа является учебной
+
 int main()
 {
     int x,y;
