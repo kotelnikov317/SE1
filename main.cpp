@@ -13,6 +13,7 @@ int main()
     cout << "y = ";
     cin >> y;
     cout << "x + y = " << x+y << "\n"
-         << "x - y = " << x-y << "\n";
+         << "x - y = " << x-y << "\n"
+         << "x / y = " << x/y << "\n";
     return 0;
 }
