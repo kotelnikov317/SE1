@@ -1,5 +1,9 @@
 #include <iostream>
-
+/*
+autor: Kotelnikov Anatolui
+group: KE-317
+date: 06.09.24
+*/
 using namespace std;
 //программа является учебной
 int main()
@@ -12,7 +16,7 @@ int main()
     cin >> x;
     cout << "y = ";
     cin >> y;
-    cout << "Сумма = " << x+y << " Произведение = " << x*y;
+    cout << "Сумма = " << x+y << " Вычитание = " << x-y <<  " Произведение = " << x*y;
 
     return 0;
 }
